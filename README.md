@@ -36,10 +36,10 @@
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/peter-manoel" target="_blank" rel="noopener noreferrer"> 
-    <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
-  <a href='https://www.google.com/intl/pt/gmail/about/' target="_blank" rel="noopener noreferrer">
-    <img align="center" alt="spring" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
+  <a href='https://www.google.com/intl/pt/gmail/about' target="_blank" rel="noopener noreferrer">
+    <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
   </a>
 </div>
 
