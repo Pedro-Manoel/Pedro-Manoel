@@ -34,13 +34,13 @@
 
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="32"> Contact me
 <div>
-  <a href="https://www.linkedin.com/in/peter-manoel/" target="_blank"><img height="40" width="50" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png"></a>
-  <a href="mailto:pedro.alves@ccc.ufcg.edu.br" target="_blank"><img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>
+  <a href="https://www.linkedin.com/in/peter-manoel/" target="_blank"><img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
+  <a href="mailto:pedro.alves@ccc.ufcg.edu.br" target="_blank"><img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedro-manoel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-manoel&layout=compact&langs_count=16&theme=tokyonight&locale=en">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-manoel&layout=compact&langs_count=6&theme=tokyonight&locale=en&exclude_repo=projetos-curso-tecnico-informatica-ifpb">
 </div>
