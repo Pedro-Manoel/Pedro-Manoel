@@ -42,5 +42,5 @@
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedro-manoel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-manoel&layout=compact&langs_count=6&theme=tokyonight&locale=en&exclude_repo=projetos-curso-tecnico-informatica-ifpb">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-manoel&layout=compact&langs_count=6&theme=tokyonight&locale=en&hide=pascal">
 </div>
